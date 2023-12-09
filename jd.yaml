@@ -1,0 +1,4 @@
+proxies:
+  - {name: "[VMess]韩国", server: oracle-rk2.256709394.xyz, port: 443, type: vmess, uuid: 770c4305-c2bf-4433-9cca-c9557a91d179, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oracle-rk2.256709394.xyz, network: ws, ws-opts: {path: /7c9JfsUDVvPFn2i, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
+
+  - {name: "[VMess]日本", server: vir6.256709394.xyz, port: 443, type: vmess, uuid: 3d6c0f6f-8b82-4dba-abed-e0e3ed622712, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vir6.256709394.xyz, network: ws, ws-opts: {path: /oKr7NdsCZYHm2H4, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
