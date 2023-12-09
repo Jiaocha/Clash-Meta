@@ -1,0 +1,89 @@
+proxies:
+  - name: 🐻BaiduDomain
+    server: cloudnproxy.baidu.com
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     X-T5-Auth: "683556433"
+     Host: 153.3.236.22:443
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻江苏电信shifen
+    server: cloudnproxy.n.shifen.com
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     X-T5-Auth: "683556433"
+     Host: 153.3.236.22:443
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"  
+  - name: 🐻南京电信249
+    server: 180.101.50.249
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻南京电信208
+    server: 180.101.50.208
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻北京电信174
+    server: 220.181.33.174
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻北京电信1
+    server: 220.181.7.1
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻北京电信189
+    server: 220.181.111.189
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
+  - name: 🐻广州电信75
+    server: 14.215.182.75
+    type: http
+    port: 443
+    udp: false
+    tls: false 
+    skip-cert-verify: true 
+    headers:
+     Host: 153.3.236.22:443
+     X-T5-Auth: "683556433"
+     User-Agent: "Mozilla/5.0 (Linux; Android 13; 22081212C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.14 Mobile Safari/537.36 T7/13.32 SP-engine/2.70.0 baiduboxapp/13.32.0.10 (Baidu; P1 12) NABar/1.0"
