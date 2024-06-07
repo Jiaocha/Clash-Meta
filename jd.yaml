@@ -1,16 +1,9 @@
 proxies:
-  - {name: "[VMess]韩国", server: oracle-rk2.256709394.xyz, port: 443, type: vmess, uuid: 770c4305-c2bf-4433-9cca-c9557a91d179, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oracle-rk2.256709394.xyz, network: ws, ws-opts: {path: /7c9JfsUDVvPFn2i, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-
-  - {name: "[VMess]日本", server: vir6.256709394.xyz, port: 443, type: vmess, uuid: 3d6c0f6f-8b82-4dba-abed-e0e3ed622712, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vir6.256709394.xyz, network: ws, ws-opts: {path: /oKr7NdsCZYHm2H4, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]VIR7日本", server: vir7.256709394.xyz, port: 443, type: vmess, uuid: c2f44a87-2af1-4e80-a307-8ff932e33e34, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vir7.256709394.xyz, network: ws, ws-opts: {path: /TB2omNq2eGZGgT, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]甲骨文新加坡_AMD", server: 	v2xjpamd.256709394.xyz, port: 443, type: vmess, uuid: 367083a7-23f1-4610-b918-161becea25d3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 	v2xjpamd.256709394.xyz, network: ws, ws-opts: {path: /6JvNUM8Nym7xfSaUpmNJ, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]甲骨文圣何塞_ARM", server: arm-us.256709394.xyz, port: 443, type: vmess, uuid: 87e6899f-1aba-429f-b3bf-d5afea8879d5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: arm-us.256709394.xyz, network: ws, ws-opts: {path: /XyWz4hGzaV, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]甲骨文圣何塞_AMD_vm", server: shsus.256709394.xyz, port: 443, type: vmess, uuid: 7b02e355-2195-4a36-8c4d-31092b962b0e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: shsus.256709394.xyz, network: ws, ws-opts: {path: /RVr8ALFBsgTfBC, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]甲骨文韩国AMD_vm", server: cf.256709394.xyz, port: 443, type: vmess, uuid: 7d31865c-60c3-41b0-ac24-3a088772ba3f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cf.256709394.xyz, network: ws, ws-opts: {path: /7DCpHz3BMZzZaabSv74A, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
-  
-  - {name: "[VMess]甲骨文韩国2", server: oracle-rk2.256709394.xyz, port: 443, type: vmess, uuid: 770c4305-c2bf-4433-9cca-c9557a91d179, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: oracle-rk2.256709394.xyz, network: ws, ws-opts: {path: /7c9JfsUDVvPFn2i, headers: {Host: t7z.cupid.iqiyi.com}}, udp: true}
+  - {name: "[VMess]vir6VM日本", server: vir6.256709394.xyz, port: 443, type: vmess, uuid: a6dceb75-4d27-4fca-b17c-2eac4cf39ec9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /oKr7NdsCZYHm2H4}, udp: true}  
+  - {name: "[VMess]甲骨文圣何塞_ARM", server: arm-us.256709394.xyz, port: 443, type: vmess, uuid: 69a1883f-5c26-40c4-914c-9122b03cfbc2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /wHPstYLHnD29n7}, udp: true}
+  - {name: "[VMess]甲骨文圣何塞_AMD_vm", server: shsus.256709394.xyz, port: 443, type: vmess, uuid: 7a8ec047-662b-4a9f-b89f-fd7d97eca90f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /RVr8ALFBsgTfBC}, udp: true}
+  - {name: "[VMess]甲骨文韩国1", server: cf.256709394.xyz, port: 443, type: vmess, uuid: 3c90d797-fbb8-45aa-bb4b-e76a06a6a36c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /7DCpHz3BMZzZaabSv74A}, udp: true}
+  - {name: "[VMess]甲骨文韩国2", server: oracle-rk2.256709394.xyz, port: 443, type: vmess, uuid: 770c4305-c2bf-4433-9cca-c9557a91d179, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /7c9JfsUDVvPFn2i}, udp: true}
+  - {name: "[VMess]甲骨文韩国_ARM", server: v2krarm.256709394.xyz, port: 443, type: vmess, uuid: c42a840f-9a8c-482b-9ca0-856383d55d82, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ribXgLCgtiGwT9}, udp: true}
+  - {name: "[VMess]腾讯广州", server: 43.139.209.200, port: 80, type: vmess, uuid: a53fd78c-7933-461b-99a4-61e05cf0f035, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oKr7NdsCZYHm2H487}, udp: true}
+  - {name: "[VMess]阿里深圳", server: 120.25.191.89, port: 80, type: vmess, uuid: 997288db-d99c-4102-e348-7ad3bb65d39b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ribXgLCgtiGwT9}, udp: true}
